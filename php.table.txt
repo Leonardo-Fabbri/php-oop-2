@@ -1,0 +1,10 @@
+Users
+
+id INT Serial AI
+nome varchar (15)
+cognome varchar (15)
+mail varchar (20)
+password varchar (10)
+data di nascita varchar (8)
+username varchar (8)
+n post 
